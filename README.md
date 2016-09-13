@@ -1,4 +1,4 @@
-Threat Detection with Machine Learning
+#Threat Detection with Machine Learning
 
 This application is a step into understanding how threats can be detected using machine learning.
 
