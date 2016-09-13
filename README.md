@@ -15,13 +15,13 @@ There are 8 user factors used:
 8. Anomaly type
 
 The class variables are:
-Hoarding Threat
-Widespread Hoarding Threat
-Spoofing Threat
-Snooping Threat
-Benign Threat
+1.Hoarding Threat
+2.Widespread Hoarding Threat
+3.Spoofing Threat
+4.Snooping Threat
+5.Benign Threat
 
 API references:
-Java-ML
-JfreeChart
-CSVReader
+1.Java-ML
+2.JfreeChart
+3.CSVReader
